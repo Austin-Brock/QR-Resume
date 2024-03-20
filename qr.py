@@ -1,7 +1,7 @@
 import qrcode
 
 # The URL to your resume
-resume_url = ''
+resume_url = 'https://austin-brock.github.io/contact.html'
 
 # Generate QR code
 qr = qrcode.QRCode(
